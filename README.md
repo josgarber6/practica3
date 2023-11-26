@@ -2,6 +2,8 @@ Conflicto
 Nuevo cambio1
 Nuevo cambio2
 Cambio1
+primera funcionalidad buena
+segunda funcionalidad buena
 
 Plataforma voto electrónico educativa
 =====================================
