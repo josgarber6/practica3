@@ -8,6 +8,8 @@ segunda funcionalidad buena
 Plataforma voto electrónico educativa
 =====================================
 
+[![Python application](https://github.com/josgarber6/practica3/actions/workflows/django.yml/badge.svg)](https://github.com/josgarber6/practica3/actions/workflows/django.yml)
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
