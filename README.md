@@ -2,6 +2,7 @@ Conflicto
 Nuevo cambio1
 Nuevo cambio2
 Cambio1
+Cambio bueno
 
 Plataforma voto electrónico educativa
 =====================================
