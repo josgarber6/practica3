@@ -5,7 +5,7 @@ on:
      branches:
       - main
   workflow_call:
-    secrets:
+     secrets:
       CODACY_PROJECT_TOKEN:
         required: true
   
