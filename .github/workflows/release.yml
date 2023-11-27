@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   buildTest:
-    uses: josgarber6/practica3/.github/workflows/django.yml@master
+    uses: josgarber6/practica3/.github/workflows/django.yml@main
     secrets: 
       CODACY_PROJECT_TOKEN: ${{secrets.CODACY_PROJECT_TOKEN}}
      
